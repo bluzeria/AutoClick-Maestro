@@ -1,11 +1,21 @@
-Copyright (c) 2026 Bluz Tekno. All Rights Reserved.
+MIT License
 
-Pemberian Lisensi Penggunaan Pribadi (Personal Use License) - AutoClick-Maestro
+Copyright (c) 2026 Bluz Tekno
 
-Dengan mengunduh atau menggunakan perangkat lunak ini, Anda menyetujui ketentuan berikut:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. HAK PENGGUNAAN: Anda diizinkan untuk mengunduh dan menjalankan perangkat lunak ini hanya untuk penggunaan pribadi dan non-komersial.
-2. LARANGAN KLAIM & MODIFIKASI: Dilarang keras menghapus, mengubah, atau menyembunyikan atribusi hak cipta "Bluz Tekno" yang terdapat di dalam kode sumber maupun tampilan program.
-3. LARANGAN DISTRIBUSI ULANG & KOMERSIAL: Dilarang keras mengunggah ulang (re-upload), mendistribusikan kembali, menyalin kode untuk repositori lain, atau memperjualbelikan perangkat lunak ini tanpa izin tertulis dari Bluz Tekno.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN. BLUZ TEKNO TIDAK BERTANGGUNG JAWAB ATAS SEGALA RISIKO PENGGUNAAN PERANGKAT LUNAK INI.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
