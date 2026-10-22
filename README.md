@@ -106,3 +106,13 @@ Anda dapat menjadwalkan beberapa sesi waktu berbeda dalam satu kali pengaturan:
 * **Jangan Geser atau *Scroll* Jendela Target:** Setelah koordinat dikunci atau saat menggunakan Config, pastikan posisi jendela aplikasi/browser yang ingin diklik tidak digeser, tidak di-*scroll*, dan tidak tertutup oleh jendela CMD.
 * **Matikan Mode *Sleep* pada PC/Laptop:** Jika Anda meninggalkan bot untuk waktu yang lama (misalnya menunggu tengah malam atau pagi hari), pastikan pengaturan daya (*Power & Sleep*) di Windows diatur ke **Never** agar komputer tidak mati/tidur sebelum jadwal klik tiba.
 * **Cara Menghentikan Bot Secara Paksa:** Jika Anda ingin membatalkan jadwal saat hitung mundur sedang berjalan, klik pada jendela CMD lalu tekan kombinasi tombol **`Ctrl + C`** di keyboard.
+
+
+
+---
+
+## 📜 Lisensi & Hak Cipta
+
+Proyek **AutoClick-Maestro** ini dikembangkan dan dilisensikan di bawah naungan **Bluz Tekno**.
+* **Pemilik Hak Cipta:** © 2026 **Bluz Tekno** ([@bluzeria](https://github.com/bluzeria))
+* Dilarang menghapus atribusi pengembang atau memperjualbelikan ulang kode sumber ini tanpa izin resmi dari **Bluz Tekno**.
