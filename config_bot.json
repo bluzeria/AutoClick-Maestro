@@ -1,0 +1,16 @@
+{
+    "Contunies": [
+        {
+            "nama": "Contunie",
+            "x": 1539,
+            "y": 256,
+            "delay": 0
+        },
+        {
+            "nama": "Not Now",
+            "x": 1013,
+            "y": 716,
+            "delay": 300
+        }
+    ]
+}
