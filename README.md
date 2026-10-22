@@ -44,9 +44,9 @@ Ikuti langkah-langkah berikut jika Anda baru pertama kali menggunakan program Py
 ## 🚀 Cara Menjalankan Bot
 
 1. Buka folder tempat Anda menyimpan file skrip ini, lalu buka **CMD** di dalam folder tersebut *(Tips cepat: klik kolom alamat folder di File Explorer, ketik `cmd`, lalu tekan **Enter**)*.
-2. Jalankan perintah berikut (sesuaikan `test4.py` dengan nama file Python Anda):
+2. Jalankan perintah berikut (sesuaikan `click.py` dengan nama file Python Anda):
    ```bash
-   python test4.py
+   python click.py
    ```
 3. Pilih menu yang tersedia dengan mengetik angka **`1`** sampai **`6`** lalu tekan **Enter**:
    ```text
